@@ -1,4 +1,4 @@
-#
+#10265_ssm108农业视频实时发布管理系统设计
 
 # 项目资料包含：
 * 前后端源代码+SQL脚本
@@ -14,6 +14,5 @@
 
 
 * 2000+项目及演示视频：https://www.yuque.com/codercode/cqaxlg/wznt5a2m92ay93gz?singleDoc#lND3 《毕设资源大全》
-
 
 
